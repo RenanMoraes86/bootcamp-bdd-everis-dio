@@ -27,4 +27,7 @@ public class ResultadoPesquisaPage extends BasePage {
 		log("Adicionou o produto [" + nomeProduto + "] ao carrinho");
 	}
 
+    public void acessarProduto(String nomeProduto) {
+
+    }
 }
